@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++ programming and .NET MAUI
 - 👯 I’m looking to collaborate on Mobile Application projects.
 - 🤔 I’m looking for help with working with API.
-- 💬 Ask me about anything about programming.
+- 💬 Ask me anything about programming.
 - 📫 How to reach me: kenleyclermont5@gmail.com
 - ✨ You can find my additional works at [huntscript](https://github.com/huntscript/)
