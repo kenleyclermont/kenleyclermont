@@ -1,4 +1,4 @@
-### Hi there 👋, I am Ken. I am a software developper for the [huntscript project](https://github.com/huntscript/) 
+### Hi there 👋, I am Ken. I am a software developper for the [huntscript](https://github.com/huntscript/) project.
 
 <!--
 **kenleyclermont/kenleyclermont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
