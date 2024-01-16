@@ -1,9 +1,10 @@
-### Hi there, I am Ken 👋
+### Hi there 👋, I am Ken. I am a software developper for the [huntscript project](https://github.com/huntscript/) 
 
 <!--
 **kenleyclermont/kenleyclermont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- ✨ [huntscript](https://github.com/huntscript/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with working with API.
 - 💬 Ask me anything about programming.
 - 📫 How to reach me: kenleyclermont5@gmail.com
-- ✨ You can find my additional works at [huntscript](https://github.com/huntscript/)
+
