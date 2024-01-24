@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help on working with API.
 - 💬 Ask me anything about programming.
 - 📫 How to reach me: kenleyclermont5@gmail.com
-
+- ⚡ Fun fact: I never really enjoyed programming until I found what I can build with it.
