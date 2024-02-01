@@ -4,7 +4,7 @@
 I am a software developer passionate about building innovative solutions. Currently, I contribute to the [huntscript](https://github.com/huntscript/) project.
 
 - 🔭 I’m currently working on desktop/mobile/web application projects using Android Studio and Visual Studio Community.
-- 🌱 I’m in the process of mastering C++ programming and exploring the possibilities of .NET MAUI.
+- 🌱 I’m in the process of learning Software Engineering.
 - 👯 I’m enthusiastic about collaborating on exciting Mobile Application projects.
 - 🤔 I’m seeking assistance with working on APIs, so if you have expertise in this area, let's connect!
 - 💬 Ask me anything about programming.
