@@ -6,7 +6,6 @@ I am a software developer passionate about building innovative solutions. Curren
 - 🔭 I’m currently working on desktop/mobile/web application projects using Android Studio and Visual Studio Community.
 - 🌱 I’m in the process of learning Software Engineering.
 - 👯 I’m enthusiastic about collaborating on exciting Mobile Application projects.
-- 🤔 I’m seeking assistance with working on APIs, so if you have expertise in this area, let's connect!
 - 💬 Ask me anything about programming.
 - 📫 Reach me at: [kenleyclermont5@gmail.com](mailto:kenleyclermont5@gmail.com)
 - ⚡ Fun fact: I never really enjoyed programming until I discovered the incredible things I can build with it. Now, I'm hooked on turning ideas into reality through code!
