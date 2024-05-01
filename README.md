@@ -1,7 +1,7 @@
 
 ### 👋 Hi there, I'm Ken!
 
-I am a software developer passionate about building innovative solutions. Currently, I contribute to the [huntscript](https://github.com/huntscript/) project.
+I am a software developer passionate about building innovative solutions. Currently, I contribute to the [huntscript](https://github.com/huntscript/) initiative.
 
 - 🔭 I’m currently working on desktop/mobile/web application projects using Android Studio and Visual Studio Community.
 - 🌱 I’m in the process of learning Software Engineering.
