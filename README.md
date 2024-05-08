@@ -3,7 +3,7 @@
 
 I am a software developer passionate about building innovative solutions. Currently, I contribute to the [huntscript](https://github.com/huntscript/) initiative.
 
-- 🔭 I’m currently working on desktop/mobile/web application projects using Android Studio and Visual Studio Community.
+- 🔭 I’m currently working on software application projects using Android Studio and Visual Studio.
 - 🌱 I’m in the process of learning Software Engineering.
 - 👯 I’m enthusiastic about collaborating on exciting Mobile Application projects.
 - 💬 Ask me anything about programming.
