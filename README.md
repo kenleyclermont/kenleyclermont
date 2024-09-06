@@ -4,7 +4,7 @@
 I am a software engineer, introverted artist and book enthusiast. Currently, I am the leading software engineer for the [huntscript](https://github.com/huntscript/) initiative.
 
 - 🔭 I’m currently working on software application projects using Android Studio and Visual Studio.
-- 🌱 I’m in the process of learning Software Engineering.
+- 🌱 I’m in the process of perfectioning my software engineering skills.
 - 👯 I’m enthusiastic about collaborating on exciting Mobile Application projects.
 - 💬 Ask me anything about programming.
 - 📫 Reach me at: [kenleyclermont5@gmail.com](mailto:kenleyclermont5@gmail.com)
