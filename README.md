@@ -12,22 +12,24 @@ I am a software engineer, introverted artist, and book enthusiast. Currently, I 
 <!--
 **kenleyclermont/kenleyclermont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 - ✨ [huntscript](https://github.com/huntscript/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Portfolio
 
-
-# Hi there, I am Kenley! 👋  
+# Hi there, I am Ken! 👋  
 Welcome to My Page! 🌟  
 
-Hello! I’m Kenley Clermont, a final-year Computer Science student and a software engineer specializing in nuclear energy technology. My educational journey has been complemented by hands-on experience in blockchain integration and software development. I also have a deep interest in research and am currently part of a groundbreaking project with The Thorium Network, where I work to develop solutions that bridge technology with sustainable energy practices.
+I am a software engineer, introverted artist, and book enthusiast, currently leading the software engineering efforts for the [HuntScript](https://github.com/huntscript/) initiative. My focus lies in...
 
 ## 🎓 Education  
-- **Bachelor's Degree in Computer Science**  
-  - *Université Espoir Calvary Chapel, Haiti (Expected Graduation: 2024)*  
-  - **Relevant Courses:** Mobile App Development, Web Development, Data Structures, Algorithms
+- **Computer Science**  
+  - [Université Espoir Calvary Chapel](https://uespoir.edu.ht/), Haiti
+  - **Relevant Courses:** Data Structures, Algorithms, Artificial Intelligence 
+- **Comouter Software Engineering**
+  - [MIT OpenCourseWare](https://ocw.mit.edu/)
+  - **Relevant Courses:** 
 
 ## 💼 Internship and Work Experience  
 
@@ -43,30 +45,28 @@ Hello! I’m Kenley Clermont, a final-year Computer Science student and a softwa
 - Conducted market research and developed strategic content for technical blogs and client websites.
 - **Skills:** Project Management, Content Strategy, Market Research  
 
-**Teacher Assistant** — *Mathematics & Algebra* 📐  
+**Assistant Professor** — *Mathematics & Algebra* 📐  
 - Assisted in teaching classes at Université Espoir Calvary Chapel, reinforcing student comprehension through interactive learning techniques.
 - Conducted study sessions and supported students in mastering concepts.
 
 ## 🌟 Leadership Experience  
-- **The Thorium Network Team Lead**  
-  - As the sole employee, took charge of overseeing project deliverables and fostering collaborations with international partners in Venezuela, Russia, and India.
-  
-- **Events Lead at HuntScript**  
-  - Organized coding events and tech talks to engage the community in the latest software engineering practices and innovations.
+
 
 ## 💻 Technical Skills  
-- **Languages:** Python, JavaScript, Solidity, SQL  
-- **Frameworks and Tools:** React, Node.js, Hardhat, Docker, Terraform  
-- **Blockchain & Web3:** Smart Contracts, DApp Development, Decentralized Storage  
+- **Languages:** Python, JavaScript, Solidity, SQL, Java, Perl, C++, C#, Assembly
+- **Frameworks and Tools:** React, Angular, Vue.js, React Native, Flutter, Hardhat, Docker, Terraform
 - **Libraries:** Pandas, NumPy, Matplotlib  
 - **Data Management:** SQL, Data Preprocessing, ETL Processes  
+- **Blockchain & Web3:** Smart Contracts, DApp Development, Decentralized Storage  
+- **Libraries:** Pandas, NumPy, Matplotlib  
 - **Cloud & Infrastructure:** AWS, IPFS, Terraform  
 
-## 📜 Certifications  
+## 📜 Courses & Training  
 - **Web Development** by Trinity Education
 - **Mobile App Development** by CodePath  
-- **Blockchain Development** by ConsenSys Academy  
+- **Digital Marketing** by Digital Skills for Africa
+- **Blockchain Development** by
 - **Cybersecurity** by Codepath
-Feel free to connect and explore opportunities to make strides in the nuclear energy and blockchain sectors together!
+Feel free to connect and...
 
 -->
