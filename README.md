@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Ken!
+### 👋🏾 Hi there, I'm Ken!
 
 I am a software engineer and content administrator. Currently, I am leading the software engineering efforts for the [HuntScript](https://github.com/huntscript/) initiative.
 
