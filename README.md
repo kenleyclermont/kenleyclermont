@@ -2,15 +2,15 @@
 
 I am a software engineer and content administrator. Currently, I am leading the software engineering efforts for the [HuntScript](https://github.com/huntscript/) initiative.
 
+
+<!--
+**kenleyclermont/kenleyclermont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m working on scientific software application projects.
 - 🌱 I’m improving my software engineering skills through learning and research.
 - 👯 I’m enthusiastic about collaborating on exciting projects involving Automation and Blockchain Technologies.
 - 💬 Feel free to ask me anything about software engineering.
 - 📫 Reach me at: [kenleyclermont5@gmail.com](mailto:kenleyclermont5@gmail.com)
 - ⚡ Fun fact: I never truly enjoyed programming until I discovered the incredible things I can build with it. Now, I'm hooked on turning ideas into reality through code!
-
-<!--
-**kenleyclermont/kenleyclermont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - ✨ [huntscript](https://github.com/huntscript/)
 - 😄 Pronouns: ...
